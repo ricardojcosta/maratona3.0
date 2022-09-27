@@ -15,7 +15,7 @@ Projeto construído na maratona Explorer da Rocketseat.
 ## ⚒ Tecnologias
 
   - HTML (html semântico)
-  - CSS (responsividade, efeitos)
+  - CSS 
   - Git e Github
 
 ## ✉ Contato
